@@ -1,0 +1,7 @@
+{
+  "name": "CalorieCommander",
+  "description": "A voice-powered, AI-driven calorie tracker designed for simplicity. Just say what you ate or did, and it handles the math.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
